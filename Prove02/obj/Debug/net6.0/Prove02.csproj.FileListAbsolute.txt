@@ -1,0 +1,15 @@
+C:\CWCProjects\Prove02\obj\Debug\net6.0\Prove02.csproj.AssemblyReference.cache
+C:\CWCProjects\Prove02\obj\Debug\net6.0\Prove02.GeneratedMSBuildEditorConfig.editorconfig
+C:\CWCProjects\Prove02\obj\Debug\net6.0\Prove02.AssemblyInfoInputs.cache
+C:\CWCProjects\Prove02\obj\Debug\net6.0\Prove02.AssemblyInfo.cs
+C:\CWCProjects\Prove02\obj\Debug\net6.0\Prove02.csproj.CoreCompileInputs.cache
+C:\CWCProjects\Prove02\bin\Debug\net6.0\Prove02.exe
+C:\CWCProjects\Prove02\bin\Debug\net6.0\Prove02.deps.json
+C:\CWCProjects\Prove02\bin\Debug\net6.0\Prove02.runtimeconfig.json
+C:\CWCProjects\Prove02\bin\Debug\net6.0\Prove02.dll
+C:\CWCProjects\Prove02\bin\Debug\net6.0\Prove02.pdb
+C:\CWCProjects\Prove02\obj\Debug\net6.0\Prove02.dll
+C:\CWCProjects\Prove02\obj\Debug\net6.0\refint\Prove02.dll
+C:\CWCProjects\Prove02\obj\Debug\net6.0\Prove02.pdb
+C:\CWCProjects\Prove02\obj\Debug\net6.0\Prove02.genruntimeconfig.cache
+C:\CWCProjects\Prove02\obj\Debug\net6.0\ref\Prove02.dll
